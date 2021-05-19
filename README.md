@@ -10,6 +10,6 @@ Compare fastest laps between a list of drivers.
 Compare the delta between multiples laps of a list of drivers.
 
 ## USAGE
-the tool can't be used yet but this are some screenshots of some functionalities
-Fastest lap Quali comparison between verstappen and hamilton In Barcelona
+_the tool can't be used yet but this are some screenshots of some functionalities_ 
+_Fastest lap Quali comparison between verstappen and hamilton In Barcelona_
 ![](images/VER_HAM.png)
