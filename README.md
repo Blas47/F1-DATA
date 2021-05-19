@@ -9,6 +9,6 @@ So far the following functionalities are implemented:
 Compare fastest laps between a list of drivers.
 Compare the delta between multiples laps of a list of drivers.
 
-##USAGE
+## USAGE
 the tool can't be used yet but this are some screenshots of some functionalities
 ![](images/VER_HAM.png)
