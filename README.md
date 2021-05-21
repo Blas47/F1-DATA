@@ -21,4 +21,6 @@ _Fastest lap Quali comparison between verstappen and hamilton In Barcelona_
 
 ![](images/Sainz_delta.png)
 _Delta between Sainz's laps in the 70th Grand prix_
+
+
 This is computed by comparing consecutive laps
