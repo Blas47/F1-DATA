@@ -18,3 +18,7 @@ the tool can't be used yet but this are some screenshots of some functionalities
 ![](images/VER_HAM.png)
 _Fastest lap Quali comparison between verstappen and hamilton In Barcelona_
 
+
+![](images/delta_Ver.png)
+_Delta between Verstappen laps in the 70th Grand prix_
+This is computed by comparing consecutive laps
